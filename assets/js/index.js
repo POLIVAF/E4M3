@@ -20,5 +20,5 @@ document.getElementById("btn-generar").addEventListener("click", function () {
   console.log("Tu nuevo nombre de usuario es: " + nombreDeUsuario);
 
   // Mostrar en alerta
-    alert("Tu nuevo nombre de usuario es: " + nombreDeUsuario);
+  alert("Tu nuevo nombre de usuario es: " + nombreDeUsuario);
 });
