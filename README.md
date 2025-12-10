@@ -21,19 +21,17 @@ markdown
 Copiar código
 Ejemplo: `jgar45`  
 ✔ Muestra el resultado en:
-- Un **alert**
-- Un **div** estilizado con Bootstrap y CSS  
+- Un **alert** 
 ✔ Permite generar un nuevo usuario cuantas veces se desee  
 ✔ Footer fijo con tu nombre en color morado
 
 ---
 
-## 🧠 Conceptos Aplicados
+##  Conceptos Aplicados
 
 ### 🔹 JavaScript
 - Manipulación de strings:
   - `slice()`
-  - `charAt()`
   - `toLowerCase()`
   - concatenación
 - Generación aleatoria:
@@ -42,7 +40,6 @@ Ejemplo: `jgar45`
 - Eventos DOM:
   - `addEventListener()`
 - Manipulación visual:
-  - `textContent`
   - `style.display`
 
 ### 🔹 HTML
@@ -56,13 +53,12 @@ Ejemplo: `jgar45`
 
 ---
 
-## 🖥️ Vista Previa del Proyecto
+##  Vista Previa del Proyecto
 
 **Estructura general:**
 
 - Un título centrado
 - Un botón grande para generar el usuario
-- Un cuadro tipo "card" donde se muestra el resultado
 - Un footer morado fijo abajo
 
 ---
@@ -76,12 +72,10 @@ E4M3/
 │ ├── css/style.css
 │ └── js/index.js
 
-yaml
-Copiar código
 
 ---
 
-## 🏁 Cómo Ejecutarlo
+##  Cómo Ejecutarlo
 
 1. Clona o descarga el repositorio.
 2. Abre el archivo `index.html` en tu navegador.
@@ -91,7 +85,7 @@ Copiar código
 
 ---
 
-## 👨‍💻 Desarrollado por  
+##  Desarrollado por  
 **Pablo Olivares Figueroa**  
 Módulo 3 — Curso Full Stack JavaScript
 
